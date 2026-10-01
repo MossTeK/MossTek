@@ -5,10 +5,11 @@ I’m a systems and DevOps engineer focused on Linux infrastructure, NixOS, and 
 ## What I work on
 
 - Linux and Kubernetes infrastructure
-- NixOS configuration and fleet management
+- NixOS management via flakes & nix expressions
 - GitOps and DevOps automation
 - VoIP systems and PBX/UCaaS tooling
 - Identity, networking, and security
+- Active Passive HA scheduling for systemd services
 
 ## What I’m building
 
