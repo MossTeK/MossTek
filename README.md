@@ -1,4 +1,4 @@
-# Hey, I’m Jacob Moss
+# Hey, I’m Jake
 
 I’m a systems and DevOps engineer focused on Linux infrastructure, NixOS, and VoIP/UCaaS platforms. I build automation and tools that make fleets easier to configure, deploy, and operate.
 
